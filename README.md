@@ -6,13 +6,14 @@
 </table>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/47d3c967-7536-4672-bc68-881aac0749c2/deploy-status)](https://app.netlify.com/sites/matematiktekursistemi/deploys)
- [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/temelmatematik/)
+
+[![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/temelmatematik/)
 
 
 ## Hakkında 🎯
  A beautiful Single Page Web App made with React to display all your important social links for your followers (Alternative to linktr.ee).
 
-![Screenshot](https://api.microlink.io/?url=https://bio.devgossips.vercel.app&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1500&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29)
+![Screenshot](https://api.microlink.io/?url=https://link.matematiktekursistemi.com&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1500&type=jpeg&overlay.browser=dark&overlay.background=linear-gradient%28225deg%2C+%23FF057C+0%25%2C+%238D0B93+50%25%2C+%23321575+100%25%29)
 
 
 ## How to use ?🤔
