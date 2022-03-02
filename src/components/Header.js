@@ -21,7 +21,7 @@ function Header() {
         <img src={mksikon} alt="mksikon" />
         &nbsp;&nbsp;&nbsp;
         <h2>
-          <b>Sagnik. </b>
+          <b>Temel Matematik - Mehmet Karayiğit. </b>
         </h2>
       </div>
       <button className="switch-theme-button" onClick={handleSwitchTheme}>
