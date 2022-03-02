@@ -19,7 +19,7 @@ const items = [{
 {
     "title": "YouTube",
     "subtitle": "@temelmatematik | Youtube Kanalı🏠 ",
-    "image": github,
+    "image": youtube,
     "link": "https://www.youtube.com/channel/UCvvIHun8YBpYoI_EVQtwx4A" //Youtube kanalı
 },
 {
