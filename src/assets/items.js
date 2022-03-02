@@ -6,7 +6,7 @@ import instagram from '../assets/instagram.png'
 
 const items = [{
     "title": "Whatsapp",
-    "subtitle": "@heysagnik | 🏠 of my open-source projects",
+    "subtitle": "Mehmet Karayiğit Whatsapp",
     "image": whatsapp,
     "link": "https://api.whatsapp.com/send?phone=905550187344" //Whatsapp Link
 },
