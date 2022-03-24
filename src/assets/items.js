@@ -8,7 +8,7 @@ const items = [{
     "title": "Whatsapp",
     "subtitle": "Mehmet Karayiğit Whatsapp",
     "image": whatsapp,
-    "link": "https://api.whatsapp.com/send?phone=905550187344" //Whatsapp Link
+    "link": "https://api.whatsapp.com/send?phone=905071405310" //Whatsapp Link
 },
 {
     "title": "Website",
